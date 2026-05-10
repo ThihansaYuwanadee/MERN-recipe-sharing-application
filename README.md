@@ -1,7 +1,9 @@
-# 🍳 MERN Recipe Sharing Application
+# 🍳 MERN Smart Recipe Sharing Application
 
 A full-stack Recipe Sharing Web Application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). 
 This platform allows users to create, manage, and share their favorite recipes with others.
+
+ ![image url](https://github.com/ThihansaYuwanadee/MERN-recipe-sharing-application/blob/ca4bca198e9d63f5661c626e8afa3766ae9eebd3/Homepage.png)
 
 ---
 
